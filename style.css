@@ -908,7 +908,6 @@ table td {
 
 @media (min-width: 480px) {
   html {
-    width: 1500px;
-    height: 3000px;
+    width: 1550px;
   }
 }
