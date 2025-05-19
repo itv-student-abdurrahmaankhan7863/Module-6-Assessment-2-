@@ -905,3 +905,10 @@ table td {
     margin: auto;
   }
 }
+
+@media (min-width: 480px) {
+  html {
+    width: 1500px;
+    height: 2719.85;
+  }
+}
